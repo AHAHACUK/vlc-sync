@@ -1,0 +1,4 @@
+enum MediaPlayerState {
+  pause,
+  playing,
+}
